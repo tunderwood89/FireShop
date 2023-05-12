@@ -28,3 +28,7 @@
     margin-bottom:0px;
     margin-left:0px;
   }
+  html {
+    height: 100%;
+    width: 100%;
+  }
