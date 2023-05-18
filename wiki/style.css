@@ -2,6 +2,10 @@
     float: left;
     width: 20%;
   }
+  .columnbig {
+    float: right;
+    width: 80%;
+  }
   
   /* Clear floats after the columns */
   .row:after {
