@@ -9,3 +9,37 @@
     display: table;
     clear: both;
   }
+  a:link {
+    color: #ff7b00;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #ff7b00;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #ff7b00;
+    background-color: transparent;
+    text-decoration: transparent;
+  }
+  
+  a:active {
+    color: orange;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  body {
+    margin: 0px;
+    margin-top:0px;
+    margin-right:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+  }
+  html {
+    height: 100%;
+    width: 100%;
+  }
