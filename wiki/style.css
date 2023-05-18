@@ -94,6 +94,6 @@
     
     /* Some media queries for responsiveness */
     @media screen and (max-height: 450px) {
-      .sidenav {padding-top: 5x;}
+      .sidenav {padding-top: 0x;}
       .sidenav a {font-size: 18px;}
     }
