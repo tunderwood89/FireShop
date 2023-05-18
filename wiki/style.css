@@ -1,11 +1,11 @@
 .column {
     float: left;
-    width: 20%;
+    width: 10%;
     background-color: #4d97ff
   }
   .columnbig {
     float: right;
-    width: 80%;
+    width: 90%;
     background-color: #ff7b00
   }
   
